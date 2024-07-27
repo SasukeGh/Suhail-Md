@@ -29,8 +29,8 @@ jobs:
     - name: Start Suhail-Md
     
       env:
-          OWNER_NAME: 
-          OWNER_NUMBER:
+          OWNER_NAME: Sasuke Uchiha 
+          OWNER_NUMBER:+233257789272
           SESSION_ID:
 
       run: npm start
